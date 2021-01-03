@@ -1,0 +1,16 @@
+SMAP
+google_005fsignup_jsp.java
+JSP
+*S JSP
+*F
++ 0 google_signup.jsp
+google_signup.jsp
+*L
+5,88:44
+93,2:133
+94,7:135
+101,2:143
+102,3:145
+105,2:149
+106,164:151
+*E

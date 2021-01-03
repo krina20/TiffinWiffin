@@ -1,0 +1,21 @@
+body
+{
+	margin: 0px;
+}
+
+div.head
+{
+	height: 200px;
+	line-height:200px;
+	width:100%;
+	background-color: pink;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+a.logout
+{
+	text-decoration: none;
+}
+

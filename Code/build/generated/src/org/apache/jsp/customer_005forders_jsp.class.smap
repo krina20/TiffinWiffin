@@ -1,0 +1,18 @@
+SMAP
+customer_005forders_jsp.java
+JSP
+*S JSP
+*F
++ 0 customer_orders.jsp
+customer_orders.jsp
+*L
+1,101:46
+102,5:148
+106,13:153
+119,3:167
+121,4:170
+125,9:174,3
+134,2:201
+136,2:204
+137,36:206
+*E
